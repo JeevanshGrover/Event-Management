@@ -1,0 +1,1 @@
+this is an event management system to make creating and registering in events more streamlined and easy
